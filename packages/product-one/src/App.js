@@ -9,9 +9,9 @@ function App() {
       <div>
         <h2>Sample Application</h2>
 				<div>
-        <Button label="Button [ui-component]" />
+        <Button label="[ui-component] Button" />
         <div>	<span>
-          Today is[common-utils]: {formatDate(new Date())}
+				 [common-utils] Today is: {formatDate(new Date())}
         </span>
 				</div>
 				</div>
